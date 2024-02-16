@@ -1,0 +1,31 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+
+body {
+    background: url(new.jpg);
+    background-size: cover;
+}
+
+.text h1 {
+    font-family: "Sofia", sans-serif;
+    margin-top: 6rem;
+    margin-left: 18rem;
+
+}
+
+.text p {
+    margin-left: 18rem;
+    font-family: "Sofia", sans-serif;
+    font-size: 30px;
+    text-shadow: 3px 3px 3px #ababab;
+}
+
+.text a{
+    margin-left: 18rem;
+    color: aliceblue;
+}
